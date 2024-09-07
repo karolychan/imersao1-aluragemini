@@ -10,3 +10,5 @@ você encontra tudo o que precisa saber sobre seus artistas: paginas wiki e port
 ### Tecnologias utilizadas
 * **Frontend:** HTLML5 , CSS
 * **Backend:** javascript
+
+ #imersao-dev-google-gemini
